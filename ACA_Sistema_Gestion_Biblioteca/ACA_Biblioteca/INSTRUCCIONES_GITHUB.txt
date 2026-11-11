@@ -1,0 +1,18 @@
+1. Cree un repositorio público o privado en GitHub llamado SistemaBiblioteca.
+2. Descomprima esta entrega y abra una terminal dentro de la carpeta ACA_Biblioteca.
+3. Ejecute estos comandos:
+
+   git init
+   git add .
+   git commit -m "Estructura inicial del sistema de biblioteca"
+   git branch -M main
+   git remote add origin https://github.com/USUARIO/SistemaBiblioteca.git
+   git push -u origin main
+
+4. Sustituya USUARIO por su nombre de usuario real y use la URL que GitHub le proporcione.
+5. Durante el desarrollo registre commits descriptivos, por ejemplo:
+   git add .
+   git commit -m "Implementa gestión de usuarios"
+   git push
+
+No invente commits anteriores: el historial debe reflejar los cambios que realmente realice.
